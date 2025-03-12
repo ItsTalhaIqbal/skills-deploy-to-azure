@@ -21,7 +21,7 @@ _Create two deployment workflows using GitHub Actions and Microsoft Azure._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Trigger a job based on labels
+## Step 1: Trigger a job based on labels...
 
 _Welcome to the course :tada:_
 
